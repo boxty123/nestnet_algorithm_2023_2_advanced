@@ -1,4 +1,4 @@
-package Nestnet.nestnet_algorithm_2023_2_advanced.JungHyunLee.week1;
+package Nestnet.nestnet_algorithm_2023_2_advanced.LeeJungHyun.week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
