@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//쉬운 최단거리
 public class Boj14940 {
 
     private static int N,M;
